@@ -37,3 +37,5 @@ gem 'jquery-rails', '2.0.2'
 
 # To use debugger
 # gem 'debugger'
+
+# This is a comment to test how Git works
